@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ቅጽበት የሰዓት አቆጠራ (Kitsibet Timer)</string>
+    <string name="title_timer">የሰዓት ቆጣሪ</string>
+    <string name="title_stopwatch">የሰዓት መቁጠሪያ</string>
+    <string name="presets">የተለመዱ ተግባራት</string>
+    <string name="custom_presets">የእርስዎ ቆጣሪዎች</string>
+    <string name="save_preset">ቆጣሪ አስቀምጥ</string>
+    <string name="delete_preset">ቆጣሪ ሰርዝ</string>
+    <string name="preset_name_hint">የቆጣሪው ስም (ምሳሌ፡ ሻይ ማፍላት)</string>
+    <string name="duration">ቆይታ</string>
+    <string name="history">የቆጠራ ታሪክ</string>
+    <string name="clear_history">ታሪክ አጽዳ</string>
+    <string name="start">ጀምር</string>
+    <string name="pause">አቁም</string>
+    <string name="resume">ቀጥል</string>
+    <string name="reset">እንደገና ጀምር</string>
+    <string name="lap">ዙር</string>
+    <string name="clear">አጽዳ</string>
+    <string name="hours">ሰዓት</string>
+    <string name="minutes">ደቂቃ</string>
+    <string name="seconds">ሰከንድ</string>
+    <string name="no_presets">የተቀመጠ ቆጣሪ የለም። የራስዎን ቆጣሪ ያክሉ!</string>
+    <string name="no_history">ምንም የቅርብ ጊዜ ቆጠራ ታሪክ የለም።</string>
+    <string name="add">አክል</string>
+    <string name="cancel">ተው</string>
+    <string name="invalid_duration">እባክዎን ከዜሮ በላይ የሆነ ሰዓት ያስገቡ።</string>
+    <string name="lap_timer_total">ጠቅላላ ጊዜ</string>
+    <string name="preset_tea">ሻይ ማፍላት</string>
+    <string name="preset_egg">እንቁላል መቀቀል</string>
+    <string name="preset_pomodoro">ፖሞዶሮ (ትኩረት)</string>
+    <string name="preset_rest">ትናንሽ እረፍት</string>
+    <string name="preset_workout">የስፖርት እንቅስቃሴ</string>
+</resources>
+

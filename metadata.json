@@ -1,0 +1,6 @@
+{
+  "name": "ቅጽበት የሰዓት አቆጠራ (Kitsibet Timer)",
+  "description": "ቆንጆ የሰዓት አቆጠራ እና ማቆሚያ መተግበሪያ (Beautiful Amharic Countdown and Stopwatch Timer Application)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
